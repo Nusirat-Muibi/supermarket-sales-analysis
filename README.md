@@ -82,6 +82,7 @@ The findings provide practical insights that can support inventory planning, per
 Dashboard
 
 The project dashboard was developed in Excel to visualize key performance indicators, category performance, staff sales, daily sales trends, and top-performing products.
+
 Workbook Structure
 
 The Excel workbook contains the following sections:
