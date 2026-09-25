@@ -82,6 +82,15 @@ The findings provide practical insights that can support inventory planning, per
 Dashboard
 
 The project dashboard was developed in Excel to visualize key performance indicators, category performance, staff sales, daily sales trends, and top-performing products.
+Workbook Structure
+
+The Excel workbook contains the following sections:
+* Raw Data- Original sales data.
+* Cleaned Data- Data prepared and cleaned using Power Query.
+* Pivot Tables- Summarized data used for analysis.
+* Analysis- Key metrics, KPIs, and supporting calculations.
+* Dashboard- Interactive dashboard presenting the main findings and performance trends.
+  
 ### Dashboard Preview
 ![Dashboard Overview](dashboard-overview.png.png)
 ![Product Sales Performance](product-sales-performance.ng.png)
